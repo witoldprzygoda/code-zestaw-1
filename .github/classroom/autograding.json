@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "ZADANIE1",
+      "setup": "",
+      "run": "cd ZADANIE1 && mkdir -p build && cd build && cmake .. && make && ctest --output-on-failure",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 180,
+      "points": 10
+    },
+    {
+      "name": "ZADANIE2",
+      "setup": "",
+      "run": "cd ZADANIE2 && mkdir -p build && cd build && cmake .. && make && ctest --output-on-failure",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 180,
+      "points": 10
+    },
+    {
+      "name": "ZADANIE3",
+      "setup": "",
+      "run": "cd ZADANIE3 && mkdir -p build && cd build && cmake .. && make && ctest --output-on-failure",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 180,
+      "points": 10
+    },
+    {
+      "name": "ZADANIE4",
+      "setup": "",
+      "run": "cd ZADANIE4 && mkdir -p build && cd build && cmake .. && make && ctest --output-on-failure",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 180,
+      "points": 10
+    },
+    {
+      "name": "ZADANIE5",
+      "setup": "",
+      "run": "cd ZADANIE5 && mkdir -p build && cd build && cmake .. && make && ctest --output-on-failure",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 180,
+      "points": 10
+    }
+  ]
+}
