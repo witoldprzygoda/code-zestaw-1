@@ -1,3 +1,3 @@
-# <imię i nazwisko>
+# Imię i nazwisko: 
 
 # Zestaw 1
